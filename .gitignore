@@ -31,5 +31,6 @@ hs_err_pid*
 *.spine
 *.txt
 *.shader
+*.gif
 images
 MOV
