@@ -3,7 +3,7 @@
 
 1，英文名后面跟中文名表示目录已整理过
 
-    English followed by Chinese, which means that the directory has been organized.
+    English followed by Chinese, which means that the directory has been classified.
   
 2，JSON文件会陆续更新
 
