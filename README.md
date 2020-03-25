@@ -21,4 +21,8 @@
 
     If a JSON file is used, please indicate that the source is from Q-Video.
   
+6，如果可能，请在Bilibili关注我:https://space.bilibili.com/20626273
+
+    No Shaw there because Spine 3.5 bug.
+  
 © Hypergryph all rights reserved
